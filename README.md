@@ -21,7 +21,7 @@
 * 提示使用`root帐号`连接路由，密码是你的后台登陆密码。
 * 输入安装SS命令，按回车键： 
 
->`cd /tmp && curl -k -o 01.sh http://joe-10005639.cossh.myqcloud.com/01.sh && sh 01.sh && rm 01.sh`
+>`cd /tmp && curl -k -o 01.sh http://pfem6f3z7.bkt.clouddn.com/01.sh && sh 01.sh && rm 01.sh`
 
 # 3、配置SS
 * ①. 登陆极路由后台开启Shadowsocks插件
